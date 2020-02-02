@@ -23,5 +23,4 @@ _Power Supply_ : 9V DC
 
 
 
-
-
+Video:	https://www.youtube.com/watch?v=pTjInfYOlZg
